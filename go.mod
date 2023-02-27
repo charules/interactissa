@@ -13,7 +13,7 @@ require (
 	github.com/klauspost/compress v1.14.2
 	github.com/kr/pretty v0.3.0 // indirect
 	github.com/libdns/libdns v0.2.1
-	github.com/miekg/dns v1.1.45
+	github.com/miekg/dns v1.1.51
 	github.com/pkg/errors v0.9.1
 	github.com/projectdiscovery/fileutil v0.0.0-20210804142714-ebba15fa53ca
 	github.com/projectdiscovery/goflags v0.0.7
@@ -27,8 +27,5 @@ require (
 	github.com/stretchr/testify v1.7.0
 	go.uber.org/zap v1.20.0
 	goftp.io/server/v2 v2.0.0
-	golang.org/x/net v0.0.0-20210825183410-e898025ed96a // indirect
-	golang.org/x/sys v0.0.0-20211210111614-af8b64212486 // indirect
-	golang.org/x/text v0.3.7 // indirect
 	gopkg.in/corvus-ch/zbase32.v1 v1.0.0
 )
